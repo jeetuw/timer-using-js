@@ -28,3 +28,12 @@
 footer a:hover {
   color: rebeccapurple !important;
 }
+
+.nav-container {
+  
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+}
